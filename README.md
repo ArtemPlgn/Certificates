@@ -5,8 +5,8 @@ SQL:
 - <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-63054-66ec755.pdf">Интерактивный тренажер по SQL</a>
 
 Python:
-OOP - <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-114354-12f2abf.pdf">Объектно-ориентированное программирование на Python</a>
-
+-OOP <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-114354-12f2abf.pdf">Объектно-ориентированное программирование на Python</a>
+-Pandas <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-105785-95d8d62-2.pdf">ez🍉Pandas</a>
 __________________________________________________________________________________________________________________________
 
 Книги
