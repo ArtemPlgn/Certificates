@@ -8,6 +8,9 @@ SQL:
 Python:
 - OOP - <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-114354-12f2abf.pdf">Объектно-ориентированное программирование на Python</a>
 - Pandas - <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-105785-95d8d62-2.pdf">ez🍉Pandas</a>
+
+Математика:
+- Статистика - <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-76-b2d75f3-3.pdf">Основы статистики</a>
 __________________________________________________________________________________________________________________________
 
 Книги
