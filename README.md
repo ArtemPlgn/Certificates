@@ -11,7 +11,7 @@ Python:
 
 Математика:
 - <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-76-b2d75f3-3.pdf">Основы статистики Часть 1</a>
-- <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-76-b2d75f3-3.pdf">Основы статистики Часть 2</a>
+- <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-524-247acc6.pdf">Основы статистики Часть 2</a>
 __________________________________________________________________________________________________________________________
 
 Книги
