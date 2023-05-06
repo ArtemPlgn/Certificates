@@ -10,8 +10,8 @@ Python:
 - Pandas - <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-105785-95d8d62-2.pdf">ez🍉Pandas</a>
 
 Математика:
-- Статистика - <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-76-b2d75f3-3.pdf">Основы статистики Часть 1</a>
-- Статистика - <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-76-b2d75f3-3.pdf">Основы статистики Часть 2</a>
+- <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-76-b2d75f3-3.pdf">Основы статистики Часть 1</a>
+- <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-76-b2d75f3-3.pdf">Основы статистики Часть 2</a>
 __________________________________________________________________________________________________________________________
 
 Книги
