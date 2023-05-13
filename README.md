@@ -1,4 +1,5 @@
 Часть сертификатов о прохождении курсов
+
 ML:
 - <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-129449-8f4f4b0.pdf">Машинное Обучение в Python: Большой Курс для Начинающих</a>
 
