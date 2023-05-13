@@ -1,6 +1,7 @@
 Часть сертификатов о прохождении курсов
 ML:
 - <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-129449-8f4f4b0.pdf">Машинное Обучение в Python: Большой Курс для Начинающих</a>
+
 SQL:
 - <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-116332-8a65989.pdf">SQL для Анализа Данных с Глебом Михайловым</a>
 - <a href="https://github.com/ArtemPlgn/certificates/blob/main/stepik-certificate-95367-468ed6c-2.pdf">Оконные функции SQL</a>
